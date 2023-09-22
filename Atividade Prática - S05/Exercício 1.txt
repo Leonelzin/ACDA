@@ -1,0 +1,18 @@
+Aluno -> Douglas Leonel de Almeida
+Matrícula -> 2110213
+
+Para determinar qual algoritmo é o menos eficiente no pior caso, precisamos comparar suas complexidades na notação Big O. 
+
+Quanto maior a complexidade na notação Big O, menos eficiente é o algoritmo no sentido de que ele consome mais recursos computacionais à medida que o tamanho do problema (n) aumenta.
+
+Dada a complexidade de cada algoritmo:
+
+Algoritmo a: O(log n)
+Algoritmo b: O(n^2)
+Algoritmo c: O(n log n)
+
+Podemos observar que a complexidade O(n^2) (Algoritmo b) é a maior entre essas três opções, o que significa que, no pior caso, o Algoritmo b é o menos eficiente, pois consome mais recursos computacionais à medida que o tamanho do problema aumenta.
+
+Portanto, a resposta correta é:
+
+d) B é o menos eficiente

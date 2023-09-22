@@ -1,0 +1,14 @@
+Aluno -> Douglas Leonel de Almeida
+Matrícula -> 2110213
+
+O código dado tem um loop simples que percorre o vetor v para encontrar o maior elemento.
+
+O loop for percorre o vetor v de 1 até n-1, ou seja, ele executa n-1 iterações.
+
+Dentro do loop, há uma única comparação entre x e v[j] para verificar se v[j] é maior que x. Além disso, a atribuição x = v[j] é executada somente quando v[j] é maior que x.
+
+Portanto, o código executa um número constante de operações por iteração do loop, independentemente do tamanho do vetor v. Isso significa que a complexidade de tempo do código é O(n), onde n é o tamanho do vetor.
+
+Então, a resposta correta é:
+
+b) O(n)
